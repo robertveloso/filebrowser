@@ -108,7 +108,7 @@
   width: 100%;
   margin: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 1em;
+  padding: 0.1em 1em 0.1em 1em;
   border-top: 0;
 }
 
